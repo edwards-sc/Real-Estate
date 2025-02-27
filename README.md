@@ -1,5 +1,5 @@
 # Real-Estate Investment Decisions: Identifying Favorable Markets
-# Milestone 2: Real Estate Investment Decisions: Identify Favorable Markets with Rental Demand
+
 ## Three separate datasets were acquired from Zillow:
 1. **Zillow Observed Rental Index (ZORDI)**: Tracks trends in rental prices over time, highlighting regions with strong rental demand.
 2. **Sales Count Nowcast**: Sales data provide insights into real estate market trends, including average sales prices and transaction volumes, to gauge market favorability for buyers.
